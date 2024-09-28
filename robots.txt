@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://burentoly.github.io/sitemap.burentoly.gz
+Sitemap: https://burentoly.github.io/app/sitemap.burentoly.gz
+Sitemap: https://burentoly.github.io/assets/sitemap.burentoly.gz
+Sitemap: https://burentoly.github.io/css/sitemap.burentoly.gz
+Sitemap: https://burentoly.github.io/data/sitemap.burentoly.gz
+Sitemap: https://burentoly.github.io/includes/sitemap.burentoly.gz
+Sitemap: https://burentoly.github.io/item/sitemap.burentoly.gz
+Sitemap: https://burentoly.github.io/src/sitemap.burentoly.gz
